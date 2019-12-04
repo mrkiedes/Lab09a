@@ -1,2 +1,1 @@
-# Lab09a
-Rational Numbers Lab
+Enjoy the Rational Numbers Lab!
