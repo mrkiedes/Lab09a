@@ -31,6 +31,23 @@ public class Lab09avst
 
 class Rational
 {
+	int num, den, gcf;
+
+	public Rational(int num, int den){
+		this.num = num;
+		this.den = den;
+	}
+
+	public int getNum(){
+		return num;
+	}
+	public int getDen(){
+		return den;
+	}
+
+	public double getDecimal(){
+			return num/den;
+	}
 
 	public void displayData()
 	{
